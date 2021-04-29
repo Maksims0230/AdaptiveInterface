@@ -65,7 +65,7 @@
                         Background="LightGreen"
                         Width="20"
                         Height="20"
-                        Margin="5">
+                        Margin="5" Cursor="Hand">
 
                     <Button.Effect>
                         <DropShadowEffect BlurRadius="5" Direction="-60" RenderingBias="Quality" ShadowDepth="1"

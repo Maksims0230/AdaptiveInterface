@@ -1,2 +1,0 @@
-C:\Users\maksi\source\repos\WPF NET 6\WPFWindow\obj\Debug\net6.0-windows\WPFWindow.csproj.AssemblyReference.cache
-C:\Users\maksi\source\repos\WPF NET 6\WPFWindow\obj\Debug\net6.0-windows\WPFWindow_MarkupCompile.cache
