@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2u9ytIoZ8Hr6bi1OFxNyYGdeQO5MCiIy+FvwaqJ6yhy90WJ4tUnhvBNIFdDeEdhcXBJbmcBND9+WF3rn1N4S6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\source\\repos\\WPF NET 6\\WPF NET 6\\WPF NET 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\calcbinding\\2.5.2\\calcbinding.2.5.2.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\dynamicexpresso.core\\2.3.1\\dynamicexpresso.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
